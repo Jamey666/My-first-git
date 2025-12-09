@@ -1,7 +1,7 @@
 Hello comment
 456(Alter by my Branch)
 1
-2
+666(Alter By other_2 Branch)
 3(Alter By other Branch)
 789(Alter By Other_2 Branch)
 10(Alter By origin Other_2 Branch)
